@@ -4,7 +4,7 @@ This repository was created to house all of my analysis of remote access trojan 
 
 Currently covered RATS include:
 
-* X-worm
+* Xworm
 
 
 
