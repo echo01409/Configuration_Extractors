@@ -1,6 +1,6 @@
 # RAT-Catching
 
-This repository was created to house all of my analysis of remote access trojan kits. The majority of these kits are written in .NET and any tooling created will have this in mind, unless otherwise stated.
+This repository was created to house all of my analysis of remote access trojan kits. The majority of these kits are written in `.NET` and any tooling created will have this in mind, unless otherwise stated.
 
 Currently covered RATS include:
 
@@ -12,7 +12,7 @@ Currently covered RATS include:
 
 ## Scripts
 
-Scripts that are specific to a given RAT will be contained insisde that RATs folder in this repo. The scripts outlined below are agnostic and can help you in analysing any RAT written in .NET.
+Scripts that are specific to a given RAT will be contained insisde that RATs folder in this repo. The scripts outlined below are agnostic and can help you in analysing any RAT written in `.NET`.
 
 ### Hex to Key script `hex-array2key.py` usage
 
