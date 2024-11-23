@@ -1,5 +1,10 @@
 # RAT-Catching
-Decoders, key grabbers, and config extractors for analysing remote access trojans (RATS)
+
+This repository was created to house all of my analysis of remote access trojan kits. The majority of these kits are written in .NET and any tooling created will have this in mind, unless otherwise stated.
+
+Currently covered RATS include:
+
+* X-worm
 
 
 
