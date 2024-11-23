@@ -12,7 +12,7 @@ Currently covered RATS include:
 
 ## Scripts
 
-Script that are specific to a given RAT will be contained insisde that RATs folder in this repo. The scripts outlined below are agnostic and can help you in analysing any RAT written in .NET
+Scripts that are specific to a given RAT will be contained insisde that RATs folder in this repo. The scripts outlined below are agnostic and can help you in analysing any RAT written in .NET.
 
 ### Hex to Key script `hex-array2key.py` usage
 
