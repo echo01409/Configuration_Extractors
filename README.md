@@ -10,8 +10,11 @@ Currently covered RATS include:
 
 
 
+## Scripts
 
-## Hex to Key script `hex-array2key.py` usage
+Script that are specific to a given RAT will be contained insisde that RATs folder in this repo. The scripts outlined below are agnostic and can help you in analysing any RAT written in .NET
+
+### Hex to Key script `hex-array2key.py` usage
 
 Downlaod the script, open it in notepad or another text editor, and paste in your byte array, as below:
 
