@@ -11,7 +11,7 @@ rule Xworm_RAT {
         $str_xworm = "xworm" wide ascii nocase
         $str_xwormmm = "Xwormmm" wide ascii
         $str_xclient = "XClient" wide ascii
-        $str_default_log = "\\Log.tmp" wide ascii
+        $str_log_path = "\\Log.tmp" wide ascii
     condition:
         uint16(0) == 0x5A4D and (1 of ($str_hex*) or all of ($str_x*))
 
