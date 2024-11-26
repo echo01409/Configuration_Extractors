@@ -6,7 +6,7 @@ To review the samples themselves, I have housed them in another repository title
 
 Currently covered RATS include:
 
-* Xworm
+* Xworm v5.6
 
 
 
