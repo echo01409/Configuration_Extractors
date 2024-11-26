@@ -2,7 +2,7 @@
 
 This repository was created to house all of my analysis of remote access trojan kits. The majority of these kits are written in `.NET` and any tooling created will have this in mind, unless otherwise stated.
 
-To review the samples themselves, I have housed them in another repository titled [malware-config-samples](https://github.com/echo01409/malware-config-samples/tree/main)
+To review the samples themselves, I have housed them in another repository titled [malware-config-samples](https://github.com/echo01409/malware-config-samples/tree/main).
 
 Currently covered RATS include:
 
