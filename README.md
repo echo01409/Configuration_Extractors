@@ -7,6 +7,7 @@ To review the samples themselves, I have housed them in another repository title
 Currently covered RATS include:
 
 * Xworm v5.6
+* ASyncRAT v0.5.8
 
 
 
