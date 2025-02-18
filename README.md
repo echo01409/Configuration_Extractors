@@ -90,7 +90,7 @@ print("[-] Key:", key_hex_string)
 print("[-] IV:", iv_hex_string)
 ```
 
-After saving the file, you'll be able to run the script using `cmd.exe`. Expected ouput is shown below: 
+After saving the file, you'll be able to run the script. Expected ouput is shown below: 
 
 ```
 C:\Users\normal\Desktop> python hex-array2key.py
