@@ -15,7 +15,7 @@ Currently covered RATS include:
 
 ## Scripts
 
-Scripts that are specific to a given RAT will be contained inside that RATs folder in this repo. The script outlined below are agnostic and can help you in analysing any RAT written in `.NET`.
+Scripts that are specific to a given RAT will be contained inside that RATs folder in this repo. The script outlined below is agnostic and can help you in analysing any RAT written in `.NET`.
 
 ### Hex to Key script `hex-array2key.py` usage
 
