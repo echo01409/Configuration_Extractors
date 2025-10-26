@@ -1,6 +1,6 @@
 # Configuration extractors
 
-## Configuration extractors for:
+## Configuration extractors and detector scripts for:
 
 * AsyncRAT
 * Xworm
