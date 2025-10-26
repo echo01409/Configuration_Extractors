@@ -1,3 +1,7 @@
 # Configuration extractors
 
-WIP
+## Configuration extractors for:
+
+* AsyncRAT
+* Xworm
+* StealC
